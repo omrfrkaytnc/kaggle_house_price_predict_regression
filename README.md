@@ -1,7 +1,7 @@
 # House Price Prediction - Regression
 
 This project is a Kaggle competition entry for predicting house prices in Ames, Iowa using machine learning techniques. The competition dataset includes 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. The goal is to predict the final price of each home.
-
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 ## Overview
 This competition runs indefinitely with a rolling leaderboard. It's a great way for data science students and practitioners to test their skills in regression techniques and creative feature engineering.
 
