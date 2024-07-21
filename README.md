@@ -46,7 +46,7 @@ The regression algorithm used in this project:
   **Target Variable:** SalePrice (Log-transformed)
   **New Features Created:** 371 (After feature engineering) 
   **Model Performance Metric:** Evaluated using RMSE
-  **Best Model RMSE Value:** 0.12814848433361306 (After Log-transformed)
+  **Best Model RMSE Value:** 0.1281 (After Log-transformed)
 ## Conclusion
 This project demonstrates how the LightGBM algorithm can be applied to predict house prices. Detailed information about the model's usage and performance is provided. The results show that the model can accurately predict house prices.
   
@@ -112,7 +112,7 @@ Bu projede kullanılan regresyon algoritması:
 **Hedef Değişken:** Satış Fiyatı (Log dönüşümlü)
 **Oluşturulan Yeni Özellikler:** 299 (Özellik mühendisliğinden sonra)
 **Model Performans Metriği:** RMSE kullanılarak değerlendirildi
-**En İyi Model RMSE Değeri:** 0.12814848433361306 (Log dönüşümünden sonra)
+**En İyi Model RMSE Değeri:** 0.1281 (Log dönüşümünden sonra)
 ## Sonuç
 Bu proje, LightGBM algoritmasının konut fiyatlarını tahmin etmek için nasıl uygulanabileceğini göstermektedir. Modelin kullanımı ve performansı hakkında ayrıntılı bilgiler sağlanmaktadır. Sonuçlar, modelin konut fiyatlarını doğru bir şekilde tahmin edebildiğini göstermektedir.
 
