@@ -52,7 +52,7 @@ To get started quickly, you can use the starter notebook provided [here](https:/
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/house-price-prediction.git
+    git clone https://github.com/omrfrkaytnc/house-price-prediction.git
     cd house-price-prediction
     ```
 2. Install the required packages:
